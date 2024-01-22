@@ -1,0 +1,8 @@
+Server: mahmud.db.elephantsql.com
+	User: epfwzdxm
+	db: epfwzdxm
+	Password: 09-Z2bSf_L9dG9SogqOdt3f0fEu2EJHA
+
+Para conectarse al servidor de ElephantSQL:
+psql -U epfwzdxm -h mahmud.db.elephantsql.com -d epfwzdxm
+
